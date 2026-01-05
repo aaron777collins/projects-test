@@ -6,8 +6,8 @@
 
 ## 📊 Project Details
 
-- **Primary Language:** Python
-- **Languages Used:** Python
+- **Primary Language:** HTML
+- **Languages Used:** HTML, JavaScript, Python
 - **License:** None
 - **Created:** January 04, 2026
 - **Last Updated:** January 04, 2026

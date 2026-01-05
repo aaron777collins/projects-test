@@ -82,6 +82,7 @@ nav:
       - dwcc-website-snippets: dwcc-website-snippets.md
       - github-slideshow: github-slideshow.md
       - Marking-Assistant: Marking-Assistant.md
+      - projects-test: projects-test.md
     - Java:
       - 2DTestGame: 2DTestGame.md
       - Basic-Browser: Basic-Browser.md
@@ -134,7 +135,6 @@ nav:
       - player-plus-minus-tracker: player-plus-minus-tracker.md
       - PracticeCICDRepo: PracticeCICDRepo.md
       - projects: projects.md
-      - projects-test: projects-test.md
       - python-windowing-test: python-windowing-test.md
       - quicksnip: quicksnip.md
       - simple-ai-game: simple-ai-game.md
