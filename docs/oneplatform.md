@@ -3,14 +3,15 @@
 ## 🔗 Quick Links
 
 - [View on GitHub](https://github.com/aaron777collins/oneplatform)
+- [GitHub Pages Site](http://www.aaroncollins.info/oneplatform/)
 
 ## 📊 Project Details
 
 - **Primary Language:** TypeScript
-- **Languages Used:** TypeScript, Shell, PLpgSQL, MDX, JavaScript, CSS, HTML
-- **License:** None
+- **Languages Used:** TypeScript, Shell, PLpgSQL, MDX, JavaScript, Go Template, CSS, HTML
+- **License:** Other
 - **Created:** June 10, 2026
-- **Last Updated:** June 15, 2026
+- **Last Updated:** June 18, 2026
 
 ## 📝 About
 
