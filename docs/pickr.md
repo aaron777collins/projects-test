@@ -7,7 +7,7 @@
 ## 📊 Project Details
 
 - **Primary Language:** TypeScript
-- **Languages Used:** TypeScript, CSS, Rust, HTML
+- **Languages Used:** TypeScript, Python, Rust, CSS, HTML
 - **License:** MIT License
 - **Created:** June 21, 2026
 - **Last Updated:** June 21, 2026
@@ -16,18 +16,14 @@
 
 # Pickr
 
-Drag-to-reorder photo/video curation tool with AI helpers.
+Drag-to-reorder photo/video curation tool with AI helpers. Built with Tauri 2 + React.
 
-Pick the best shots from a folder, reorder them, and export clean numbered copies. AI badges surface sharpness, duplicates, and faces so you can decide fast.
+Pick the best shots from a folder of photos and videos, reorder them by dragging, and export clean numbered copies. AI badges surface sharpness, near-duplicates, and faces so you can curate fast.
 
-> **Work in progress** -- not yet functional.
+## Features (v0.1)
 
-## v1 Scope
-
-- Folder picker (native dialog)
-- Thumbnail grid with lazy loading
-- Drag-and-drop reorder
-- Lightbox preview (photos + video)
-- Include / Skip toggle per media item
-- AI badges: sharpness, near-duplicate, face c
+- **Folder scanner** -- native dialog, scans for JPG/PNG/HEIC/MP4/MOV/AVI/WebM/MKV
+- **Thumbnail grid** with responsive layout and lazy loading
+- **Drag-and-drop reorder** via dnd-kit
+-
 
