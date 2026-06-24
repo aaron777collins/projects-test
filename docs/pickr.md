@@ -3,14 +3,15 @@
 ## 🔗 Quick Links
 
 - [View on GitHub](https://github.com/aaron777collins/pickr)
+- [Latest Release: Pickr v0.3.0](https://github.com/aaron777collins/pickr/releases/tag/v0.3.0) (June 23, 2026)
 
 ## 📊 Project Details
 
 - **Primary Language:** TypeScript
-- **Languages Used:** TypeScript, Python, Rust, CSS, HTML
+- **Languages Used:** TypeScript, Python, Rust, Shell, CSS, HTML
 - **License:** MIT License
 - **Created:** June 21, 2026
-- **Last Updated:** June 21, 2026
+- **Last Updated:** June 23, 2026
 
 ## 📝 About
 
@@ -20,10 +21,12 @@ Drag-to-reorder photo/video curation tool with AI helpers. Built with Tauri 2 + 
 
 Pick the best shots from a folder of photos and videos, reorder them by dragging, and export clean numbered copies. AI badges surface sharpness, near-duplicates, and faces so you can curate fast.
 
-## Features (v0.1)
+## Install
 
-- **Folder scanner** -- native dialog, scans for JPG/PNG/HEIC/MP4/MOV/AVI/WebM/MKV
-- **Thumbnail grid** with responsive layout and lazy loading
-- **Drag-and-drop reorder** via dnd-kit
--
+**Download a pre-built binary** from [Releases](https://github.com/aaron777collins/pickr/releases) — available for Windows, macOS, and Linux.
+
+Or build from source with one command:
+
+```bash
+c
 
