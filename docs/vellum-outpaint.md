@@ -15,17 +15,20 @@
 
 ## 📝 About
 
-# Vellum
+<div align="center">
 
-Vellum is an in-browser outpainting studio: it extends the edges of an image
-using a diffusion model that runs entirely client-side via WebGPU, so images
-never leave your machine. No upload, no backend, no API key — just a static
-site and a browser that supports WebGPU.
+# ✦ Vellum
 
-Live at **[outpaint.aaroncollins.info](https://outpaint.aaroncollins.info)**.
+### An infinite canvas for Stable Diffusion — outpainting that runs entirely in your browser.
 
-## How it works
+Extend any image past its edges with a diffusion model that executes on **your own GPU** via WebGPU.
+No upload. No backend. No API key. Your images never leave your machine.
 
-- The model runs in the browser via [`onnxruntime-web`](https://github.com/microsoft/onnxruntime)
-  on the WebGPU execut
+<br/>
+
+**[→ Launch the studio at outpaint.aaroncollins.info](https://outpaint.aaroncollins.info)**
+
+<br/>
+
+![WebGPU](https://img.shields.io/badge/WebGPU-local%20inference-6C5CE7?style=flat-s
 
