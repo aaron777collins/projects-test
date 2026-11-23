@@ -1,0 +1,29 @@
+# codehaven-forge
+
+## 🔗 Quick Links
+
+- [View on GitHub](https://github.com/aaron777collins/codehaven-forge)
+
+## 📊 Project Details
+
+- **Primary Language:** Rust
+- **Languages Used:** Rust, HTML, Shell, Python, CSS, JavaScript, Dockerfile, Makefile
+- **License:** MIT License
+- **Created:** November 22, 2026
+- **Last Updated:** November 22, 2026
+
+## 📝 About
+
+# Codehaven
+
+A self-hosted code forge written in Rust. It hosts git over HTTP and SSH and has issues, pull
+requests with review, CI with registered runners, releases, packages and a container registry.
+
+It is made to be run by anyone. There is no sign-up page: the first account is made on the
+server with one command, and every account after it comes from an invite. Nothing is readable
+without signing in.
+
+## Quick start
+
+You need a Linux machine with Docker (Compose 2.24 or newer, and buildx), g
+
