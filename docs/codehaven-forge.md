@@ -21,6 +21,6 @@ requests with review, CI with registered runners, releases, packages and a conta
 
 It is made to be run by anyone. There is no sign-up page: the first account is made on the
 server with one command, and every account after it comes from an invite. A repository starts
-private. Its owner can open it to every signed-in account on the server, or to anyone on the
+private; its owner can widen it to every signed-in account on the server, or to anyone on the
 internet while the
 
