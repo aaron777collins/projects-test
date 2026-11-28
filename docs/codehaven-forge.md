@@ -3,11 +3,12 @@
 ## 🔗 Quick Links
 
 - [View on GitHub](https://github.com/aaron777collins/codehaven-forge)
+- [GitHub Pages Site](http://www.aaroncollins.info/codehaven-forge/)
 
 ## 📊 Project Details
 
 - **Primary Language:** Rust
-- **Languages Used:** Rust, JavaScript, HTML, Python, Shell, CSS, PLpgSQL, Dockerfile, Makefile
+- **Languages Used:** Rust, HTML, JavaScript, Python, Shell, CSS, PLpgSQL, Dockerfile, Makefile
 - **License:** MIT License
 - **Created:** November 22, 2026
 - **Last Updated:** November 22, 2026
